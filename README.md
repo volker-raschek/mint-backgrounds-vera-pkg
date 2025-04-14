@@ -1,7 +1,6 @@
 # mint-backgrounds-vera
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-vera?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-vera-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-vera-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-vera)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-vera`. Instead of building the
